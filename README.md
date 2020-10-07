@@ -4,10 +4,10 @@
 
 <br/>
 <a href="https://www.youracclaim.com/users/toulik-das" target="_blank">
-  <img align="left" alt="Rahul Agrawal | Twitter" width="22px" src="323975757.svg" />
+  <img align="left" alt="Rahul Agrawal | Twitter" width="22px" src="323975757.svg" target="_blank" />
 </a>
 <a href="https://www.linkedin.com/in/toulik-das/" target="_blank">
-  <img align="left" alt="Toulik's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Toulik's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />
 </a>
 
 
