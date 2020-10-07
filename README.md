@@ -5,7 +5,7 @@
 
 <br/>
 <a href="https://www.youracclaim.com/users/toulik-das" target="_blank">
-  <img align="left" alt="Toulik Das | IBM" width="22px" src="323975757.svg" target="_blank" />
+  <img align="left" alt="Toulik Das | IBM" width="22px" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true" target="_blank" />
 </a>
 <a href="https://www.linkedin.com/in/toulik-das/" target="_blank">
   <img align="left" alt="Toulik's LinkdeIN" width="22px" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" target="_blank" />
