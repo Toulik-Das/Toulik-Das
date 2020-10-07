@@ -1,4 +1,5 @@
 <img src="https://media.giphy.com/media/jbR2y4E6CpSis33cXO/giphy.gif" alt="alt text" width="100" height="100" />
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### Hi there 👋 Toulik Here..
 
