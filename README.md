@@ -28,7 +28,7 @@
 
 ![Toulik's github stats](https://github-readme-stats.vercel.app/api?username=Toulik-Das&show_icons=true&hide_border=true)</br>
 
-## Skill Set :muscle:
+## Skill Set :
 
 These are some of the major technologies that I use or have worked on in the past:
 
@@ -59,11 +59,12 @@ These are some of the major technologies that I use or have worked on in the pas
 |--|--|--|--|--|
 <br>
 
-### - Languages and Tools...
 
-<p align="center">
+<!-- ### - Languages and Tools...
+
+<!--p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+  <!--img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:4px">
@@ -74,7 +75,9 @@ These are some of the major technologies that I use or have worked on in the pas
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="fl" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/codechef.svg" alt="cf" style="vertical-align:top; margin:4px">
-</p></br></br>
+</p> -->
+
+</br></br>
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'> 
 
 </br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
