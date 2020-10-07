@@ -3,7 +3,7 @@
 ### Hi there 👋 Toulik Here..
 
 <br/>
-<a href="https://twitter.com/rahul_79911" target="_blank">
+<a href="https://www.youracclaim.com/users/toulik-das" target="_blank">
   <img align="left" alt="Rahul Agrawal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/toulik-das/" target="_blank">
