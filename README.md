@@ -22,3 +22,4 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love mystery novels
 
+![Toulik's github stats](https://github-readme-stats.vercel.app/api?username=Toulik-Das&show_icons=true&hide_border=true)
