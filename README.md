@@ -22,5 +22,5 @@
 - 💬 Ask me about **Data Science, DataAnalytics or DevOps**
 - 📫 How to reach me: [Mail](mailto:dastoulik122@gmail.com), [LinkedIn](https://www.linkedin.com/in/toulik-das/)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: ..
+- ⚡ Fun fact: I love mystery novels
 
