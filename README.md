@@ -17,8 +17,6 @@
 
 - 🔭 I’m currently working on Bio-Statistical Models related to machine learning.
 - 🌱 I’m currently learning Data Warehousing
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about **Data Science, DataAnalytics or DevOps**
 - 📫 How to reach me: [Mail](mailto:dastoulik122@gmail.com), [LinkedIn](https://www.linkedin.com/in/toulik-das/)
 - 😄 Pronouns: He/him
