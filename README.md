@@ -10,7 +10,7 @@
   <img align="left" alt="Toulik's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />
 </a>
 <a href="https://toulik-das.github.io/My-Portfolio/" target="_blank">
-  <img align="left" alt="Toulik's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />
+  <img align="left" alt="Toulik's Portfolio" width="22px" src="p.svg" target="_blank" />
 </a>
 
 
