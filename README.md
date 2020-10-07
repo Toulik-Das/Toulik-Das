@@ -15,11 +15,6 @@
 
 <br />
 
-<!--
-**Toulik-Das/Toulik-Das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Bio-Statistical Models related to machine learning.
 - 🌱 I’m currently learning Data Warehousing
 - 👯 I’m looking to collaborate on ...
@@ -27,5 +22,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Data Science, DataAnalytics or DevOps**
 - 📫 How to reach me: [Mail](mailto:dastoulik122@gmail.com), [LinkedIn](https://www.linkedin.com/in/toulik-das/)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ..
+
