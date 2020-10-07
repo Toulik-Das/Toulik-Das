@@ -8,7 +8,7 @@
   <img align="left" alt="Toulik Das | IBM" width="22px" src="323975757.svg" target="_blank" />
 </a>
 <a href="https://www.linkedin.com/in/toulik-das/" target="_blank">
-  <img align="left" alt="Toulik's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />
+  <img align="left" alt="Toulik's LinkdeIN" width="22px" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" target="_blank" />
 </a>
 <a href="https://toulik-das.github.io/My-Portfolio/" target="_blank">
   <img align="left" alt="Toulik's Portfolio" width="22px" src="portfolio-1531148-1292236.webp" target="_blank" />
