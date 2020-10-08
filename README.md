@@ -13,6 +13,9 @@
 <a href="https://toulik-das.github.io/My-Portfolio/" target="_blank">
   <img align="left" alt="Toulik's Portfolio" width="22px" src="portfolio-1531148-1292236.webp" target="_blank" />
 </a>
+<a href="https://secure.plum.io/p/y6g-vpT60i7jr9zgxxGewQ/top-talents" target="_blank">
+  <img align="left" alt="Toulik's WorkStyle" width="22px" src="autism.png" target="_blank" />
+</a>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Toulik-Das.Toulik-Das)
