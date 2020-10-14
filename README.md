@@ -82,8 +82,3 @@ These are some of the major technologies that I use or have worked on in the pas
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/codechef.svg" alt="cf" style="vertical-align:top; margin:4px">
 </p> -->
-
-</br></br>
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'> 
-
-</br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
