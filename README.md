@@ -23,7 +23,7 @@
 <br />
 
 - 🔭 I’m currently working on Bio-Statistical & FinTech Models related to machine learning.
-- 🌱 I’m currently upskilling data Science knowledge
+- 🌱 I’m currently upskilling data engineering knowledge
 - 💬 Ask me about **Data Science, DataAnalytics or DevOps**
 - 📫 How to reach me: [Mail](mailto:dastoulik122@gmail.com), [LinkedIn](https://www.linkedin.com/in/toulik-das/)
 - 😄 Pronouns: He/him
