@@ -27,7 +27,7 @@
 - 💬 Ask me about **Data Science, DataAnalytics or DevOps**
 - 📫 How to reach me: [Mail](mailto:dastoulik122@gmail.com), [LinkedIn](https://www.linkedin.com/in/toulik-das/)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: No number before 1,000 contains the letter A / Mercedes invented a car controlled by joystick
+- ⚡ Fun fact: No number before 1,000 contains the letter A 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Toulik-Das&show_icons=true&hide_border=true)</br>
 
